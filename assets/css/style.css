@@ -1,0 +1,105 @@
+h1,h2,p{
+    color:#ffffff;
+}
+body{
+    margin: 0;
+    padding: 0;
+    font-family:'Raleway', sans-serif;
+    background-color: #000000;
+}
+header{
+    background-color: #000000;
+}
+.hero img{
+    width: 100%;
+}
+
+header h1 {
+    text-align: center;
+    font-size: 52px;
+    padding: 20px;
+    margin: 0;
+}
+.desc-section{
+    padding: 60px 0;
+    background-color: #000000;
+    margin: 0;
+}
+
+.desc-section-texto{
+    display: inline-block;
+    width: 60%;
+	padding-right: 20px;
+	text-align: left;
+	vertical-align: middle;
+}
+.desc-section-texto p{
+    font-weight: 500;
+	font-size: 30px;
+}
+
+.desc-img {
+	display: inline-block;
+	width: 30%;	
+	vertical-align: middle;
+}
+
+.desc-img img {
+	width: 100%;
+}
+
+.icons-section{
+    background-color: #1e1a13;
+    text-align: center;
+    font-weight: 300;
+}
+
+.icons-section h2 {
+	font-weight: 500;
+	font-size: 40px;
+	margin-bottom: 1em;
+}
+
+footer{
+    background-color: #1E1A13;
+	text-align: center;
+	margin: 0;
+	padding: 10px;
+	color: #ffffff;
+} 
+.alinear {
+     margin-left: auto;  
+     margin-right: auto;
+     width: 75%;
+
+}
+.alinear h2{
+text-align: center;
+font-weight: 300;
+}
+.icons-section{
+    text-align: center;
+    
+}
+
+.icons {
+	display: inline-block;
+	width: 30%;
+}
+
+.icons p {
+	font-size: 25px;
+	font-weight: 300;
+}
+
+.img-sec{
+background-color: #000000;  
+margin: 10px;
+padding: 75px;
+border: red solid 2px;
+
+}
+.center-img{
+    display: inline-block;
+}
+
